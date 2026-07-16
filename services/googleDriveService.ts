@@ -4,7 +4,7 @@
 
 // ─── ⚙️ CẤU HÌNH — SỬA 2 DÒNG NÀY ────────────────────────────────────────────
 const GAS_URL          = 'https://script.google.com/macros/s/AKfycbwZB7vfn01-eSo2-h669J01YX7CBwJ3UHdLdTP10mmTzY-CVHTv75taUMhXvKWc9kO7yw/exec';
-const GAS_SECRET_TOKEN = 'dethipdf2026'; // phải khớp với CONFIG.secretToken trong Code.gs
+const GAS_SECRET_TOKEN = 'dethipdf'; // phải khớp với CONFIG.secretToken trong Code.gs
 // ───────────────────────────────────────────────────────────────────────────────
 
 export interface DriveUploadResult {
