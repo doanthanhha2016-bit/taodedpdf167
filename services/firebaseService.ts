@@ -31,13 +31,15 @@ import { Exam, Room, Submission, StudentInfo, User, Role, Question, Class, Class
 import { calculateScore, getTotalCorrectCount, getTotalWrongCount } from './scoringService';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAcB408T-dgwVpxAKog5AUk4peZkONkWPM",
-  authDomain: "taodepdf1503.firebaseapp.com",
-  projectId: "taodepdf1503",
-  storageBucket: "taodepdf1503.firebasestorage.app",
-  messagingSenderId: "906406380218",
-  appId: "1:906406380218:web:6d22613f58942290543883",
-  measurementId: "G-9Y8ZQEX6ZB"
+ // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyBup9_4pW2oLwH4GvwfxOIRC-CEpkRw7h4",
+  authDomain: "taodepdf167.firebaseapp.com",
+  projectId: "taodepdf167",
+  storageBucket: "taodepdf167.firebasestorage.app",
+  messagingSenderId: "494272996239",
+  appId: "1:494272996239:web:7a098c4357f569169121fa",
+  measurementId: "G-ZWB79KTRSW"
 };
 
 const app = initializeApp(firebaseConfig);
