@@ -3,7 +3,7 @@
 // ✅ Không cần Google Cloud Console, không cần OAuth popup
 
 // ─── ⚙️ CẤU HÌNH — SỬA 2 DÒNG NÀY ────────────────────────────────────────────
-const GAS_URL          = 'https://script.google.com/macros/s/AKfycbyPGjm6zO-W5rw23YdyVd4JqXo83s0xWtMRo_7_5UB8dg7jAnvSdWDZo27OXfyuanU/exec';
+const GAS_URL          = 'https://script.google.com/macros/s/AKfycbwZB7vfn01-eSo2-h669J01YX7CBwJ3UHdLdTP10mmTzY-CVHTv75taUMhXvKWc9kO7yw/exec';
 const GAS_SECRET_TOKEN = 'dethipdf2026'; // phải khớp với CONFIG.secretToken trong Code.gs
 // ───────────────────────────────────────────────────────────────────────────────
 
